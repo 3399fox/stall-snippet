@@ -75,7 +75,7 @@ const UUID = "你的UUID";                 // 必填：建议使用 UUID Generat
 
 const WEB_PASSWORD = "你的后台密码";       // 必填：访问网页后台的密码
 
-const SUB_PASSWORD = "sub";             // 选填：快速订阅路径，访问 https://域名/sub 即可
+const SUB_PASSWORD = "你的订阅密码";             // 选填：快速订阅路径，访问 https://域名/123 即可
 
 const DEFAULT_PROXY_IP = "tw.sni2025.netlib.re"; // 默认优选 IP 或域名
 
