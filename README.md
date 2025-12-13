@@ -48,8 +48,10 @@
     *   支持动态 UUID（随时间自动变更）。
     *   支持自定义后台密码与订阅路径密码。
 
-**界面预览：**
+**界面预览：** worker全新界面/snippets界面
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/e43db73f-4d8d-41a3-ab43-61555c8c984b" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/609af76b-99ae-4fe6-ac08-1878ca34f369" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/84bf305e-7072-403e-8389-628349a29e3f" />
 
 ---
 
